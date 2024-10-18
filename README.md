@@ -1,2 +1,0 @@
-# ciapp
-proyecto de algoritmos
